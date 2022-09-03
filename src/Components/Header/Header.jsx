@@ -1,19 +1,21 @@
-import React from 'react';
-import './Header.css';
+import React from "react";
+import "./Header.css";
 
-const Header = props => {
+const Header = (props) => {
   return (
     <header id="welcome-section">
+      {/* <div class="layer" /> */}
       <div className="forest" />
       <div className="silhouette" />
       <div className="moon" />
+      <div className="logs" />
       <div className="container">
         <h1>
-          <span className="line">I do</span>
-          <span className="line">graphic design</span>
+          <span className="line">I code</span>
           <span className="line">
-            <span className="color">&</span> code.
+            <span className="color">&</span> build things for
           </span>
+          <span className="line">the web.</span>
         </h1>
         <div className="buttons">
           <a href="#projects">my portfolio</a>

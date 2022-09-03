@@ -6,7 +6,8 @@
   background: #fafafa;
   clip-path: polygon(0 0, 20% 5%, 100% 0, 100% 100%, 80% 95%, 0 100%);
   z-index: 5;
-  background: #fafafa url(../../Images/Author_BG.jpg) center right no-repeat;
+  background: #fafafa url(https://img.freepik.com/premium-vector/develop-coding-software-programming-project-concept-hand-drawn-developer-symbol-code-concept-sketch_160308-1269.jpg?w=1380) no-repeat;
+  background-position: 154% 202%;
   background-attachment: fixed;
 }
 
