@@ -14,7 +14,7 @@ const SocialLinks = props => {
       </a>
       <a
         id="profile-link"
-        href="#"
+        href="#home"
         target="_blank"
         rel="noopener noreferrer"
         title="Link to author's GitHub Profile"
@@ -23,7 +23,7 @@ const SocialLinks = props => {
         <i className="fab fa-github" />
       </a>
       <a
-        href="#"
+        href="#home"
         target="_blank"
         rel="noopener noreferrer"
         title="Link to author's Codepen Profile"
