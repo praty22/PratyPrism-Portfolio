@@ -15,6 +15,7 @@ const Nav = (props) => {
             className={
               props.showMenu === "active" ? "menu-button active" : "menu-button"
             }
+            href="#"
           >
             <span />
           </a>

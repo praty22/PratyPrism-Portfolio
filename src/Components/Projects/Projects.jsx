@@ -7,19 +7,6 @@ import AwrConnectImg from "./Images/AwrConnect.jpg";
 import PixientFilmsImg from "./Images/PixientFilms.jpg";
 import MonomythStoriesImg from "./Images/MonomythStories.jpg";
 import SynlineFilmsImg from "./Images/SynlineFilms.jpg";
-import BarChartImg from "./Images/BarChart.jpg";
-import TreeMapImg from "./Images/TreemapDiagram.jpg";
-import ChoroplethMapImg from "./Images/ChoroplethMap.jpg";
-import QuotingMachineImg from "./Images/QuotingMachine.jpg";
-import CalculatorImg from "./Images/Calculator.jpg";
-import TomateTimerImg from "./Images/TomateTimer.jpg";
-import TicTacToeImg from "./Images/TicTacToe.jpg";
-import TwitchImg from "./Images/Twitch.jpg";
-import WeatherAppImg from "./Images/WeatherApp.jpg";
-import TributeImg from "./Images/Tribute.jpg";
-import SurveyFormImg from "./Images/SurveyForm.jpg";
-import LandingPageImg from "./Images/LandingPage.jpg";
-import DocumentifyImg from "./Images/Documentify.jpg";
 
 const Projects = (props) => {
   return (
@@ -35,7 +22,7 @@ const Projects = (props) => {
             img={Ausbiz}
             tech="js sass react node"
             link="https://www.ausbiz.com.au/"
-            repo="javascript:void(0)"
+            repo=""
           >
             <small>
               Built using Node, Express, MongoDB, SCSS, React.js and React
@@ -51,7 +38,7 @@ const Projects = (props) => {
             img={AwrConnectImg}
             tech="js node css scss react"
             link="https://connect-admin-panel-wehxzjtmaq-ew.a.run.app/Dashboard"
-            repo="javascript:void(0)"
+            repo=""
           >
             <small>
               Built using Node, Express, MongoDB, JS + jQuery + Axios, CSS +
@@ -67,7 +54,7 @@ const Projects = (props) => {
             img={AbpLiveImg}
             tech="react js node css aws"
             link="https://www.abplive.com/"
-            repo="javascript:void(0)"
+            repo=""
           >
             <small>
               Built using Reactjs, Node, Express, MongoDB, JS + jQuery, CSS +
@@ -83,7 +70,7 @@ const Projects = (props) => {
             img={PixientFilmsImg}
             tech="js css wordpress"
             link="https://pixientfilms.com"
-            repo="javascript:void(0)"
+            repo=""
           >
             <small>
               Built using Wordpress, JS + jQuery, CSS + Bootstrap.
@@ -97,7 +84,7 @@ const Projects = (props) => {
             img={MonomythStoriesImg}
             tech="js wordpress css"
             link="https://www.monomythstories.com/"
-            repo="javascript:void(0)"
+            repo=""
           >
             <small>
               Built using Wordpress, CSS + Bootstrap and Pug.
@@ -111,7 +98,7 @@ const Projects = (props) => {
             img={SynlineFilmsImg}
             tech="js node css"
             link="https://synclinefilms.com/"
-            repo="javascript:void(0)"
+            repo=""
           >
             <small>Built using Node, Express, CSS + Bootstrap.</small>
             <p>
