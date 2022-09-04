@@ -45,8 +45,7 @@ const Projects = (props) => {
               Bootstrap and Pug.
             </small>
             <p>
-              Another full-stack website to check the current value of any
-              requested stock in the market.
+              Another full-stack website to manage multiple web apps and app data and auth.
             </p>
           </Project>
           <Project
