@@ -4,7 +4,7 @@ import "./Header.css";
 const Header = (props) => {
   return (
     <header id="welcome-section">
-      {/* <div class="layer" /> */}
+      <div class="layer" />
       <div className="forest" />
       <div className="silhouette" />
       <div className="moon" />
